@@ -44,7 +44,8 @@ Sebelum mulai, pastikan kamu udah punya aplikasi-aplikasi berikut di sistem kamu
 
 4. **Jalankan Aplikasi Setelah selesai, jalankan aplikasi dengan perintah berikut:**
 ```bash
-   php artisan serve
+   php artisan serve```
+
 
 ### Persyaratan
 Sebelum memulai, pastikan Anda memiliki aplikasi berikut yang sudah terinstal di sistem Anda:
