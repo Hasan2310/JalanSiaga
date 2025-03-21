@@ -43,13 +43,10 @@ Sebelum mulai, pastikan kamu udah punya aplikasi-aplikasi berikut di sistem kamu
    php artisan db:seed --class=AdminUserSeeder
 
 4. **Jalankan Aplikasi Setelah selesai, jalankan aplikasi dengan perintah berikut:**
-```bash
-   php artisan serve```
+    ```bash
+    php artisan serve
 
+### 👮‍♂️ Login admin
+Gmail : admin@gmail.com
 
-### Persyaratan
-Sebelum memulai, pastikan Anda memiliki aplikasi berikut yang sudah terinstal di sistem Anda:
-
-- PHP >= 8.0
-- Composer
-- MySQL atau MariaDB
+Password : admin123
