@@ -6,16 +6,12 @@
 
 - **Pelaporan Kerusakan Jalan**: Pengguna bisa laporin jalan rusak lengkap dengan info lokasi, foto, dan deskripsi kerusakan. 📸🛣️
 - **Admin Panel**: Admin bisa kelola laporan jalan rusak, mulai dari menyetujui laporan hingga meng-update status perbaikan. 🖥️✅
-- **Pemetaan Lokasi**: Menampilkan peta lokasi jalan rusak yang dilaporkan menggunakan Google Maps atau peta lainnya. 📍🗺️
-- **Notifikasi**: Pengguna dan admin bakal dapat notifikasi tentang status laporan dan perbaikan. 🔔
 
 ## 🛠️ Teknologi yang Digunakan
 
 - **Frontend**: HTML, CSS (TailwindCSS), JavaScript 💻
 - **Backend**: Laravel (PHP) 🔧
 - **Database**: MySQL 🗃️
-- **Peta**: Google Maps API 🗺️
-- **Authentication**: Laravel Breeze atau Laravel Jetstream untuk otentikasi pengguna 🔐
 
 ## 📦 Instalasi
 
@@ -25,7 +21,6 @@ Sebelum mulai, pastikan kamu udah punya aplikasi-aplikasi berikut di sistem kamu
 - PHP >= 8.0 🐘
 - Composer 🎶
 - MySQL atau MariaDB 🗃️
-- Node.js dan NPM (untuk pengembangan frontend) 🌐
 
 ### Langkah-langkah Instalasi
 
